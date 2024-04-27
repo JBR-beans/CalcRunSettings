@@ -1,0 +1,28 @@
+C:\Users\DanHagen\source\repos\CalculatorSolution\CalculatorProject\bin\Debug\net8.0\CalculatorProject.exe
+C:\Users\DanHagen\source\repos\CalculatorSolution\CalculatorProject\bin\Debug\net8.0\CalculatorProject.deps.json
+C:\Users\DanHagen\source\repos\CalculatorSolution\CalculatorProject\bin\Debug\net8.0\CalculatorProject.runtimeconfig.json
+C:\Users\DanHagen\source\repos\CalculatorSolution\CalculatorProject\bin\Debug\net8.0\CalculatorProject.dll
+C:\Users\DanHagen\source\repos\CalculatorSolution\CalculatorProject\bin\Debug\net8.0\CalculatorProject.pdb
+C:\Users\DanHagen\source\repos\CalculatorSolution\CalculatorProject\obj\Debug\net8.0\CalculatorProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanHagen\source\repos\CalculatorSolution\CalculatorProject\obj\Debug\net8.0\CalculatorProject.AssemblyInfoInputs.cache
+C:\Users\DanHagen\source\repos\CalculatorSolution\CalculatorProject\obj\Debug\net8.0\CalculatorProject.AssemblyInfo.cs
+C:\Users\DanHagen\source\repos\CalculatorSolution\CalculatorProject\obj\Debug\net8.0\CalculatorProject.csproj.CoreCompileInputs.cache
+C:\Users\DanHagen\source\repos\CalculatorSolution\CalculatorProject\obj\Debug\net8.0\CalculatorProject.dll
+C:\Users\DanHagen\source\repos\CalculatorSolution\CalculatorProject\obj\Debug\net8.0\refint\CalculatorProject.dll
+C:\Users\DanHagen\source\repos\CalculatorSolution\CalculatorProject\obj\Debug\net8.0\CalculatorProject.pdb
+C:\Users\DanHagen\source\repos\CalculatorSolution\CalculatorProject\obj\Debug\net8.0\CalculatorProject.genruntimeconfig.cache
+C:\Users\DanHagen\source\repos\CalculatorSolution\CalculatorProject\obj\Debug\net8.0\ref\CalculatorProject.dll
+D:\School\Software Dev II\CalculatorSolution\CalculatorSolution\CalculatorProject\bin\Debug\net8.0\CalculatorProject.exe
+D:\School\Software Dev II\CalculatorSolution\CalculatorSolution\CalculatorProject\bin\Debug\net8.0\CalculatorProject.deps.json
+D:\School\Software Dev II\CalculatorSolution\CalculatorSolution\CalculatorProject\bin\Debug\net8.0\CalculatorProject.runtimeconfig.json
+D:\School\Software Dev II\CalculatorSolution\CalculatorSolution\CalculatorProject\bin\Debug\net8.0\CalculatorProject.dll
+D:\School\Software Dev II\CalculatorSolution\CalculatorSolution\CalculatorProject\bin\Debug\net8.0\CalculatorProject.pdb
+D:\School\Software Dev II\CalculatorSolution\CalculatorSolution\CalculatorProject\obj\Debug\net8.0\CalculatorProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Software Dev II\CalculatorSolution\CalculatorSolution\CalculatorProject\obj\Debug\net8.0\CalculatorProject.AssemblyInfoInputs.cache
+D:\School\Software Dev II\CalculatorSolution\CalculatorSolution\CalculatorProject\obj\Debug\net8.0\CalculatorProject.AssemblyInfo.cs
+D:\School\Software Dev II\CalculatorSolution\CalculatorSolution\CalculatorProject\obj\Debug\net8.0\CalculatorProject.csproj.CoreCompileInputs.cache
+D:\School\Software Dev II\CalculatorSolution\CalculatorSolution\CalculatorProject\obj\Debug\net8.0\CalculatorProject.dll
+D:\School\Software Dev II\CalculatorSolution\CalculatorSolution\CalculatorProject\obj\Debug\net8.0\refint\CalculatorProject.dll
+D:\School\Software Dev II\CalculatorSolution\CalculatorSolution\CalculatorProject\obj\Debug\net8.0\CalculatorProject.pdb
+D:\School\Software Dev II\CalculatorSolution\CalculatorSolution\CalculatorProject\obj\Debug\net8.0\CalculatorProject.genruntimeconfig.cache
+D:\School\Software Dev II\CalculatorSolution\CalculatorSolution\CalculatorProject\obj\Debug\net8.0\ref\CalculatorProject.dll
