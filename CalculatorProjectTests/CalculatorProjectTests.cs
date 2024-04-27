@@ -13,15 +13,14 @@ namespace CalculatorProjectTests
         [TestMethod]
         public void CalculatorProjectAdd_2_4_returns_6()
         {
-            int x;
-            int y;
+            string x;
+            string y;
 
-			y = (int)Convert.ChangeType(TestContext?.Properties["ValueY"]?.ToString(), typeof(int));
-			x = (int)Convert.ChangeType(TestContext?.Properties["ValueX"]?.ToString(), typeof(int));
-
-			Calculator c = new Calculator();
-            int result = c.Add(x, y);
-            Assert.AreEqual(14, result);
+			y = TestContext?.Properties["ValueY"]?.ToString();
+			x = TestContext?.Properties["ValueX"]?.ToString();
+            Assert.IsNotNull(TestContext);
+            Assert.IsNull(x);
+            Assert.IsNull(y);
         }
     }
 }

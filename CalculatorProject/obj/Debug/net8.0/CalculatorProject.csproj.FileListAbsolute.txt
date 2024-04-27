@@ -26,3 +26,4 @@ D:\School\Software Dev II\CalculatorSolution\CalculatorSolution\CalculatorProjec
 D:\School\Software Dev II\CalculatorSolution\CalculatorSolution\CalculatorProject\obj\Debug\net8.0\CalculatorProject.pdb
 D:\School\Software Dev II\CalculatorSolution\CalculatorSolution\CalculatorProject\obj\Debug\net8.0\CalculatorProject.genruntimeconfig.cache
 D:\School\Software Dev II\CalculatorSolution\CalculatorSolution\CalculatorProject\obj\Debug\net8.0\ref\CalculatorProject.dll
+D:\School\Software Dev II\CalculatorSolution\CalculatorSolution\CalculatorProject\obj\Debug\net8.0\CalculatorProject.sourcelink.json
